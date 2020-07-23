@@ -11,17 +11,17 @@ public class Dictionary {
 
     public void learn(String w) {
 
-        words.toString();
+        System.out.println(words);
 
     }
 
     public void translate(String word){
 
-        for (int x = 0; x < words[x].length; x++){
+        for (int x = 0; x < words.length; x++){
 
-            for (int y = 0; y < words[y].length; y++) {
+            for (int y = 0; y < words.length; y++) {
 
-                words.toString();
+
             }
         }
 
